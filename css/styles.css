@@ -1,0 +1,44 @@
+i {
+    margin-top: 15px;
+}
+
+.container{
+    width: 100%;
+    margin: 0px;
+    padding: 0px;
+}
+
+.navbar.navbar-default{
+    margin-bottom: 0px;
+}
+
+.background-image{
+    height: 800px;
+    width: 1400px;
+    background-image: url("../img/Homepage-Background.png");
+    background-repeat: no-repeat;
+    margin: 0px;
+    text-align: center;
+}
+
+#btn-shop{
+    margin: 80px 0px 0px 0px;
+    background-color: white;
+    width: 200px;
+    height: 80px;
+    border-radius: 10px;
+    opacity: 0.8;
+}
+
+.slogan{
+    font-family: 'Open Sans', sans-serif;
+    color: darkgrey;
+    font-size: 48px;
+    margin: auto;
+    margin-top: 250px;
+}
+
+.btn-group.btn-group-justified{
+    background-color: white;
+    opacity: 0.8;
+}
